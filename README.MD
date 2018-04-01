@@ -1,8 +1,6 @@
 
 # OOPD Game Engine
-[game]: https://nickhartjes.github.io/OOPD-GameEngine/images/VoorbeeldGame.png "Voorbeeldgame"
-
-
+![game](https://nickhartjes.github.io/OOPD-GameEngine/images/VoorbeeldGame.png)
 
 ## Eclipse 
 1. File -> Import -> Gradle -> Existing Gradle Project
@@ -22,5 +20,5 @@ You can find the javadoc in the javadoc folder.
 The online version can be found here [Documentation](https://nickhartjes.github.io/OOPD-GameEngine/javadoc/)
 
 ## Class diagram
-[classdiagram]: https://nickhartjes.github.io/OOPD-GameEngine/images/Klassendiagram%20OOPG.png "Class diagram"
+![classdiagram](https://nickhartjes.github.io/OOPD-GameEngine/images/Klassendiagram%20OOPG.png)
 
