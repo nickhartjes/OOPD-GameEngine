@@ -1,4 +1,7 @@
 
+# OOPD Game Engine
+[game]: https://nickhartjes.github.io/OOPD-GameEngine/images/VoorbeeldGame.png "Voorbeeldgame"
+
 
 
 ## Eclipse 
@@ -9,8 +12,15 @@
 
 
 ## IntelliJ Idea
-
 1. Import Project
 2. Select the build.gradle in de root folder
 3. Select "Use auto-import" and click on OK
+
+
+## Javadoc for the Game Engine
+You can find the javadoc in the javadoc folder.   
+The online version can be found here [Documentation](https://nickhartjes.github.io/OOPD-GameEngine/javadoc/)
+
+## Class diagram
+[classdiagram]: https://nickhartjes.github.io/OOPD-GameEngine/images/Klassendiagram%20OOPG.png "Class diagram"
 

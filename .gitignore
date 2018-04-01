@@ -134,3 +134,4 @@ fabric.properties
 
 .classpath
 .project
+*.DS_Store
